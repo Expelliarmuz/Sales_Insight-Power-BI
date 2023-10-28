@@ -26,3 +26,7 @@ An automated dashboard providing quick & latest sales insight in order to suppor
 **Success criteria:**
 1. Dashboard uncovering sales order insight with latest data.
 2. Sales team able to take better decisions and prove 10% cost saving of total spent
+
+**Dashboard Preview:**
+![image](https://github.com/Expelliarmuz/sales_insight/assets/141436617/b306cf98-211b-4452-9523-d319a468bc51)
+
